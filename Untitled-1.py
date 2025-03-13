@@ -1,4 +1,4 @@
-
+1
 # filepath: SnakeGame/snake.py
 import turtle
 import time
